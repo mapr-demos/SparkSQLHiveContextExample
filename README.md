@@ -1,6 +1,8 @@
 # SparkSQLHiveContextExample
 
-Minimal example of Spark SQL using HiveContext - tested against MapR 5, with Hive 1.2.
+This is a minimal example of Spark SQL using HiveContext - tested against MapR 5, with Hive 1.2.
+
+This example creates a JavaSparkContext, then creates a HiveContext, then executes some queries to insert data into a new hive table.
 
 # Building
 
